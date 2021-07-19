@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275894300132",
+    "project_id": "text-recognition-c586c",
+    "storage_bucket": "text-recognition-c586c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275894300132:android:d6ad17e8c18a8788f82bf1",
+        "android_client_info": {
+          "package_name": "com.example.contactmanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275894300132-2ebfghdn8qs4qejb71br7qt5k5vlpkt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUP2tWZsMJtcXgB-5BYczC7-CcfypS7zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275894300132-2ebfghdn8qs4qejb71br7qt5k5vlpkt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
